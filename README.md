@@ -1,5 +1,9 @@
 # Covid19-Tracker
-It is an android application to check the statewise covid cases within the India.
+It is an android application to check the state-wise covid cases within India.
 
 ### Screenshot
-blob:file:///bebb7638-9a6a-42aa-bdea-26c9f6f31bc0
+<img src="images/Screenshot.jpg"  height="300px">
+
+### Apk File
+https://bit.ly/3qBtWo6
+
